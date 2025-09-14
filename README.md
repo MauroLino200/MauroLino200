@@ -1,11 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h3 align="center">¡Hola! Soy <a href="https://www.linkedin.com/in/mauro-andr%C3%A9-lino-lagos-aa0655363">Mauro</a> 👋</h3>
+<h3 align="center">¡Hola! Soy <a href="https://www.linkedin.com/in/mauro-andr%C3%A9-lino-lagos-aa0655363">Mauro Lino Lagos</a> 👋</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mauro-andr%C3%A9-lino-lagos-aa0655363"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Mauro%20Lino%20Lagos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mlinolagos@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Contactar%20por%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MauroLino200"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://wa.me/51958095647"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  
 </p>
 
 ---
