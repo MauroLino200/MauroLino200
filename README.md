@@ -14,25 +14,28 @@
 
 ## 📖 Sobre mí
 
-* 💻 Estudiante de **Computación e Informática** en Cibertec (6to ciclo).  
+* 💻 Estudiante de **Computación e Informática** en Cibertec (6.º ciclo).  
 * ⚡ Con conocimientos en **Backend (Java Spring Boot, C# .NET Core)** y **Bases de Datos (MySQL, SQL Server)**.  
 * 🌱 En constante aprendizaje de **API REST, JPA, Swagger, Postman, Git**.  
-* 🎯 Mi objetivo: crecer como **desarrollador Backend**, aplicando lo aprendido en proyectos académicos y profesionales.  
+* 🎯 Mi objetivo: crecer como **desarrollador Backend** (no descarto ampliar mi stack), aplicando lo aprendido en proyectos académicos y profesionales.  
 * 📍 Lima, Perú.  
 
 ---
 
 ## 🚀 Proyectos Académicos Destacados
 
+- **[Sistema de TI](https://github.com/MauroLino200/SISTEMA-DE-TI.git)**  
+  📌 C#, .NET Core, MSSQL Server, REST API, Swagger | Gestión de usuarios, permisos y reportes.
+
+- **[Aplicación de Reserva de Vuelos y alojamientos](https://github.com/MauroLino200/Aplicaci-n-de-Vuelos-y-Alojamientos.git)**  
+  📌 Kotlin, SQLite, Gemini, Cursor | Gestión de reservas de Hoteles y Alojamientos.  
+
 - **[Sistema de Cadena de Ropa Deportiva](https://github.com/MauroLino200/Proyecto-SQL-.git)**  
   📌 MSSQL Server | Modelado de datos, procedimientos almacenados, vistas.  
 
 - **[Sistema de Mantenimiento CRUD - Gestión de Escuela](https://github.com/MauroLino200/Sistema-de-Mantenimiento-de-Escuela---Spring-Boot-.git)**  
-  📌 Java, Spring Boot, JPA, MySQL | CRUD completo con lógica de negocio y relaciones.  
-
-- **[Sistema de TI](https://github.com/MauroLino200/SISTEMA-DE-TI.git)**  
-  📌 C#, .NET Core, MSSQL Server, REST API, Swagger | Gestión de usuarios, permisos y reportes.  
-
+  📌 Java, Spring Boot, JPA, MySQL | CRUD completo con lógica de negocio y relaciones.
+    
 ---
 
 ## 🛠️ Lenguajes y Herramientas
@@ -42,6 +45,7 @@
   <img alt="Spring Boot" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"/>
   <img alt="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img alt=".NET" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"/>
+  <img alt="Kotlin" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
   <img alt="MySQL" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"/>
   <img alt="SQL Server" height="28px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img alt="Git" height="28px" src="https://img.icons8.com/color/48/000000/git.png"/>
