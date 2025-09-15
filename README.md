@@ -51,6 +51,8 @@
   <img alt="Git" height="28px" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img alt="Swagger" height="28px" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"/>
   <img alt="Postman" height="28px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+  <img alt="Excel" height="28px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
+  <img alt="Microsoft Office" height="28px" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/>
 </p>
 
 ---
