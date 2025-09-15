@@ -14,8 +14,8 @@
 ## 📖 Sobre mí
 
 * 💻 Estudiante de **Computación e Informática** en Cibertec (6.º ciclo).  
-* ⚡ Con conocimientos en **Backend (Java Spring Boot, C# .NET Core)** y **Bases de Datos (MySQL, SQL Server)**.  
-* 🌱 En constante aprendizaje de **API REST, JPA, Swagger, Postman, Git**.  
+* ⚡ Con conocimientos en **(Java Spring Boot, C# .NET Core, Kotlin, JavaScript 'reforzándolo')** y **Bases de Datos (MySQL, SQL Server, MongoDB, Oracle 'aprendiendo')**.  
+* 🌱 En constante aprendizaje de **API REST, Consumo de Servicios, Programación Orientada a Objetos, Swagger, Postman, Git**.  
 * 🎯 Mi objetivo: crecer como **desarrollador Backend** (no descarto ampliar mi stack), aplicando lo aprendido en proyectos académicos y profesionales.  
 * 📍 Lima, Perú.  
 
@@ -35,6 +35,9 @@
 - **[Sistema de contratación de  líneas para WOM SAC](https://github.com/MauroLino200/Aplicaci-n-de-Vuelos-y-Alojamientos.git)**  
   📌 C#, Entity Framework, MSSQL Server, CSS, HTML | Gestión de usuarios y sus líneas para realizar el cambio por el plan.
 
+- **[Aplicación de Venta de Muebles "DILUZA](https://github.com/MauroLino200/proyecto-diluza.git)**  
+  📌 HTML, CSS, JavaScript | maquetado y minisistema de administración  de una página de compra de muebles.
+
 - **[Sistema de Mantenimiento CRUD - Gestión de Escuela](https://github.com/MauroLino200/Sistema-de-Mantenimiento-de-Escuela---Spring-Boot-.git)**  
   📌 Java, Spring Boot, JPA, MySQL | CRUD completo con lógica de negocio y relaciones.
     
@@ -47,9 +50,16 @@
   <img alt="Spring Boot" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"/>
   <img alt="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img alt=".NET" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"/>
+  <img alt="HTML" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/>
+  <img alt="CSS" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/>
+  <img alt="JavaScript" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
+  <img alt="Angular" height="28px" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
   <img alt="Kotlin" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
   <img alt="MySQL" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"/>
   <img alt="SQL Server" height="28px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img alt="MongoDB" height="28px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img alt="Oracle" height="28px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+  <img alt="SQLite" height="28px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
   <img alt="Git" height="28px" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img alt="Swagger" height="28px" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"/>
   <img alt="Postman" height="28px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
