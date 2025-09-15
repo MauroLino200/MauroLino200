@@ -7,7 +7,6 @@
   <a href="mailto:mlinolagos@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Contactar%20por%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MauroLino200"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://wa.me/51958095647"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  
 </p>
 
 ---
@@ -28,10 +27,13 @@
   📌 C#, .NET Core, MSSQL Server, REST API, Swagger | Gestión de usuarios, permisos y reportes.
 
 - **[Aplicación de Reserva de Vuelos y alojamientos](https://github.com/MauroLino200/Aplicaci-n-de-Vuelos-y-Alojamientos.git)**  
-  📌 Kotlin, SQLite, Gemini, Cursor | Gestión de reservas de Hoteles y Alojamientos.  
+  📌 Kotlin, SQLite, Gemini, Cursor | Gestión de reservas de hoteles y alojamientos.  
 
 - **[Sistema de Cadena de Ropa Deportiva](https://github.com/MauroLino200/Proyecto-SQL-.git)**  
   📌 MSSQL Server | Modelado de datos, procedimientos almacenados, vistas.  
+
+- **[Sistema de contratación de  líneas para WOM SAC](https://github.com/MauroLino200/Aplicaci-n-de-Vuelos-y-Alojamientos.git)**  
+  📌 C#, Entity Framework, MSSQL Server, CSS, HTML | Gestión de usuarios y sus líneas para realizar el cambio por el plan.
 
 - **[Sistema de Mantenimiento CRUD - Gestión de Escuela](https://github.com/MauroLino200/Sistema-de-Mantenimiento-de-Escuela---Spring-Boot-.git)**  
   📌 Java, Spring Boot, JPA, MySQL | CRUD completo con lógica de negocio y relaciones.
