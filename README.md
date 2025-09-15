@@ -14,7 +14,7 @@
 ## 📖 Sobre mí
 
 * 💻 Estudiante de **Computación e Informática** en Cibertec (6.º ciclo).  
-* ⚡ Con conocimientos en **(Java Spring Boot, C# .NET Core, Kotlin, JavaScript 'reforzándolo')** y **Bases de Datos (MySQL, SQL Server, MongoDB, Oracle 'aprendiendo')**.  
+* ⚡ Con conocimientos en **(Java Spring Boot, C# .NET Core, Kotlin, JavaScript 'reforzándolo', Angular 'aprendiéndolo')** y **Bases de Datos (MySQL, SQL Server, MongoDB, Oracle 'aprendiendo')**.  
 * 🌱 En constante aprendizaje de **API REST, Consumo de Servicios, Programación Orientada a Objetos, Swagger, Postman, Git**.  
 * 🎯 Mi objetivo: crecer como **desarrollador Backend** (no descarto ampliar mi stack), aplicando lo aprendido en proyectos académicos y profesionales.  
 * 📍 Lima, Perú.  
