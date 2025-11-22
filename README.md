@@ -32,6 +32,9 @@
 - **[Sistema de Cadena de Ropa Deportiva](https://github.com/MauroLino200/Proyecto-SQL-.git)**  
   📌 MSSQL Server | Modelado de datos, procedimientos almacenados, vistas.  
 
+- **[Sistema "SHOPMI" ](https://github.com/MauroLino200/SHOPMI.git)**  
+  📌 Java, Spring Boot, JPA, MySQL, Angular, TypeScript, Arquitectura de Microservicios, JWTtoken | minisistema de ventas de dispositivos electrónicos.
+
 - **[Sistema de contratación de  líneas para WOM SAC](https://github.com/MauroLino200/Aplicaci-n-de-Vuelos-y-Alojamientos.git)**  
   📌 C#, Entity Framework, MSSQL Server, CSS, HTML | Gestión de usuarios y sus líneas para realizar el cambio por el plan.
 
