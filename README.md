@@ -13,8 +13,8 @@
 
 ## 📖 Sobre mí
 
-* 💻 Estudiante de **Computación e Informática** en Cibertec (6.º ciclo).  
-* ⚡ Con conocimientos en **(Java Spring Boot, C# .NET Core, Kotlin, JavaScript 'reforzándolo', Angular 'aprendiéndolo')** y **Bases de Datos (MySQL, SQL Server, MongoDB, Oracle 'aprendiendo')**.  
+* 💻 Egresado de **Computación e Informática** en Cibertec.  
+* ⚡ Con conocimientos en **(COBOL BATCH Y EN LÍNEA,Java Spring Boot, C# .NET Core, Kotlin, JavaScript, Angular)** y **Bases de Datos (MySQL, SQL Server, MongoDB)**.  
 * 🌱 En constante aprendizaje de **API REST, Consumo de Servicios, Programación Orientada a Objetos, Swagger, Postman, Git**.  
 * 🎯 Mi objetivo: crecer como **desarrollador Backend** (no descarto ampliar mi stack), aplicando lo aprendido en proyectos académicos y profesionales.  
 * 📍 Lima, Perú.  
@@ -50,6 +50,7 @@
 
 <p align="left">
   <img alt="Java" height="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img alt="COBOL" height="28px" src="[[https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://www.reddit.com/r/cobol/comments/1juq3kn/is_this_the_real_cobol_logo/?tl=es-419)](https://i.pinimg.com/736x/73/22/4f/73224ff83996ff1edc9c3532e965d393.jpg)"/>
   <img alt="Spring Boot" height="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"/>
   <img alt="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img alt=".NET" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"/>
@@ -88,11 +89,6 @@
 
 ---
 
-## 🙌 Actividades Complementarias
-
-* 🎤 Participación en feria de proyectos Cibertec (2023).  
-* 👨‍🏫 Delegado de aula, brindando apoyo académico.  
-
 ---
 
-✨ Si buscas un practicante **proactivo** con pasión por el Backend y ganas de aprender, ¡conectemos!  
+✨ Si buscas un desarrollador **proactivo** con pasión por el Backend y ganas de aprender, ¡conectemos!  
